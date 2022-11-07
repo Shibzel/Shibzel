@@ -1,7 +1,7 @@
 # Welcome into my GitHub page ! 👋
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=JeanLeShiba&label=Profile+views&color=55a1f7&style=for-the-badge" alt="JeanLeShiba" />
+    <img src="https://komarev.com/ghpvc/?username=JeanLeShiba&label=Profile+views&color=55a1f7&style=for-the-badge" alt="Shibzel" />
 </p>
 
 > **⚠️ Looking for my old repositories/profile ?**
@@ -15,7 +15,7 @@ Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in P
 Computer science always interested me, so I naturally ended up learning a language such as Python but I'll soon learn another language (maybe JS, Rust or even Java for Minecraft - and hurt myself - ).
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeanLeShiba&show_icons=true&layout=compact&theme=github_dark" width="500"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shibzel&show_icons=true&layout=compact&theme=github_dark" width="500"></a>
 </p>
 
 ## <p align="center"><span>📭 Contact me</span></p>
@@ -42,7 +42,7 @@ It may not be much, but I will always learn more along the way.
     <thead>
         <tr>
             <th colspan="1"><b>Language(s) :</b></th>
-            <th colspan="2"><b>Databases :</b></th>
+            <th colspan="1"><b>Databases :</b></th>
             <th colspan="2"><b>Tools :</b></th>
         </tr>
     </thead>
