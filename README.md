@@ -7,10 +7,6 @@ I'm Jean, aka Shibzel. I code in my free time and I love to learn how things wor
 - 🔭 Currently working on small project(s) like [Shibbot](https://github.com/Shibzel/Shibbot)
 - ⚡ Obvious fact: I really like shibas
 - 📫 How to reach me: E-Mail - [jeanlfbr.pro@outlook.fr](mailto:jeanlfbr.pro@outlook.fr) | Discord - Shibzel#1873 | Twitter - [@ShibzeI](https://twitter.com/ShibzeI)
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shibzel&show_icons=true&layout=compact&theme=github_dark" height="180em"></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLeShiba&layout=compact&theme=github_dark" height="180em"></a>
-</div>
 
 ## <p align="center"> 🔧 Skills </p>
 
@@ -58,21 +54,6 @@ I'm Jean, aka Shibzel. I code in my free time and I love to learn how things wor
         </tr>
     </tbody>
 </table>
-
-## <p align="center"><span>✍ My project(s)</span></p>
-
-### [Shibbot](http://github.com/JeanLeShiba/Shibbot)
-
-Shibbot is a multipurpose Discord bot with moderation, utilities and fun commands. It can include alot of other features thanks to the addition of extensions.
-The project is written in Python, using [Pycord](https://github.com/Pycord-Development/pycord) and SQLite3.
-
-To learn more about this project read read his [readme file](http://github.com/JeanLeShiba/Shibbot).
-
-<div align="center">
-    <p>
-        <img src="https://media.discordapp.net/attachments/860958733546684429/970035768804380703/unknown.png" width="400"></a>
-    </p>
-</div>
 
 ---
 
