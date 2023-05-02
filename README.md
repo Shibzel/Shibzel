@@ -55,6 +55,8 @@ I'm Jean, aka Shibzel. I code in my free time and I love to learn how things wor
     </tbody>
 </table>
 
+<p align="center"><img src="https://myreadme.vercel.app/api/embed/Shibzel?panels=userstatistics,toprepositories,toplanguages,commitgraph"/></p>
+
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Shibzel&label=Profile+views&color=55a1f7&style=for-the-badge" alt="Shibzel"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Shibzel&label=Profile+views&color=55a1f7&style=for-the-badge"/></p>
