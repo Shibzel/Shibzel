@@ -6,7 +6,10 @@ I'm Jean, aka Shibzel. I code in my free time and I love to learn how things wor
 
 - 🔭 Currently working on small project(s) like [Shibbot](https://github.com/Shibzel/Shibbot)
 - ⚡ Obvious fact: I really like shibas
-- 📫 How to reach me: E-Mail - [jeanlfbr.pro@outlook.fr](mailto:jeanlfbr.pro@outlook.fr) | Discord - Shibzel#6869 | Twitter - [@Shibzel_](https://twitter.com/Shibzel_)
+- 📫 How to reach me: 
+    E-Mail - [jeanlfbr.pro@outlook.fr](mailto:jeanlfbr.pro@outlook.fr)
+    Discord - @shibzel
+    Twitter - [@Shibzel_](https://twitter.com/Shibzel_)
 
 ## <p align="center"> 🔧 Skills </p>
 
