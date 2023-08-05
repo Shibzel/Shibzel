@@ -30,6 +30,7 @@ It can be reached here : https://www.shibzel.com.
 
 - Email: [contact@shibzel.com](mailto:contact@shibzel.com)
 - Twitter: [@Shibzel_](https://twitter.com/@Shibzel_)
+- Discord : shibzel
 
 Feel free to reach out if you want to discuss collabs, know more about me and my projects or just send me a meme.
 
