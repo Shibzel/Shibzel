@@ -1,68 +1,42 @@
-# Shibzel's README.md
+# Welcome to My GitHub Profile!
 
-## <p align="left"> Hi there !👋 </p>
+## About Me
 
-I'm Jean, aka Shibzel. I code in my free time and I love to learn how things works and be creative.
+My name's Jean-François (call me Jean) and I love coding in my free time. I'm passionate about exploring and creating with technology. Here's a short list of what I can use :
 
-- 🔭 Currently working on small project(s) like [Shibbot](https://github.com/Shibzel/Shibbot)
-- ⚡ Obvious fact: I really like shibas
-- 📫 How to reach me:
+- Programming Languages: Python, Rust (soon enough)
+- Database~~s~~: SQLite 3
+- Tools: Git, Visual Studio Code, Linux (Fedora & Ubuntu)
 
-    E-Mail - [jeanlfbr.pro@outlook.fr](mailto:jeanlfbr.pro@outlook.fr)
+I'm constantly learning and improving (hope so) even if I'm often procrastinating and sleeping.
 
-    Discord - @shibzel
+## Projects
 
-    Twitter - [@Shibzel_](https://twitter.com/Shibzel_)
+### Project 1: Shibbot
 
-## <p align="center"> 🔧 Skills </p>
+My first project with Python and discord bot built with Pycord capable of moderation, sending memes and pics of shibas, and doing other useless stuff.
 
-<table align="center">
-    <thead><tr>
-        <th colspan="1"><b>Tool</b></th>
-        <th colspan="1"><b>Usage</b></th>
-        <th colspan="1"><b>± Mastered ?</b></th>
-    </tr></thead>
-    <tbody>
-        <tr>
-            <td>
-                <img title="Python" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/></a>
-            </td>
-            <td>Advanced syntax, OOP, async, decorators...</td>
-            <td>Yes</td>
-        </tr>
-        <tr>
-            <td>
-                <img title="Rust" alt="Rust" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/></a>
-            </td>
-            <td>Started learning</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>
-                <img title="Sqlite" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a>
-            </td>
-            <td>Basic syntax, tables, queries</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>
-                <img title="Git" alt="git" width="40px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></a>
-            </td>
-            <td>Really basic commands (clone, commit, push, add...)</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>
-                <img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a>
-            </td>
-            <td>Basic undertanding of the tool, know some shortcuts to be more efficient</td>
-            <td>No</td>
-        </tr>
-    </tbody>
-</table>
+➟ [Repository](https://github.com/Shibzel/Shibbot)
 
-<p align="center"><img src="https://myreadme.vercel.app/api/embed/Shibzel?panels=userstatistics,toprepositories,toplanguages,commitgraph"/></p>
+### Project 2: My website
+
+A minimilistic website that will soon showcase my projects and more about me.
+
+![GitHub Stats](/images/screenshot-shibzeldotcom.png)
+
+It can be reached here : https://www.shibzel.com.
+
+## Contact
+
+- Email: [contact@shibzel.com](mailto:contact@shibzel.com)
+- Twitter: [@Shibzel_](https://twitter.com/@Shibzel_)
+
+Feel free to reach out if you want to discuss collabs, know more about me and my projects or just send me a meme.
+
+## My GitHub Stats
+
+![GitHub Stats](https://myreadme.vercel.app/api/embed/Shibzel?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Shibzel&label=Profile+views&color=55a1f7&style=for-the-badge"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Shibzel&label=Profile+views&color=55a1f7&style=for-the-badge"/></p>
