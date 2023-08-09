@@ -26,6 +26,8 @@ A minimilistic website that will soon showcase my projects and more about me.
 
 It can be reached here : https://www.shibzel.com.
 
+➟ [Repository](https://github.com/Shibzel/shibzel.com)
+
 ## Contact
 
 - Email: [contact@shibzel.com](mailto:contact@shibzel.com)
