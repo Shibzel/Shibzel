@@ -24,7 +24,7 @@ A minimilistic website that will soon showcase my projects and more about me.
 
 ![GitHub Stats](/images/screenshot-shibzeldotcom.png)
 
-It can be reached here : https://www.shibzel.com.
+It can be reached here : https://www.shibzel.com or here : https://preview.shibzel.com.
 
 ➟ [Repository](https://github.com/Shibzel/shibzel.com)
 
