@@ -6,7 +6,7 @@ My name's Jean-François (call me Jean) and I love coding in my free time. I'm p
 
 - Programming Languages: Python, Rust (soon enough)
 - Database~~s~~: SQLite 3
-- Tools: Git, Visual Studio Code, Linux (Fedora & Ubuntu)
+- Tools: Git, Visual Studio Code, Linux/GNU (Fedora & Ubuntu)
 
 I'm constantly learning and improving (hope so) even if I'm often procrastinating and sleeping.
 
@@ -24,9 +24,9 @@ A minimilistic website that will soon showcase my projects and more about me.
 
 ![GitHub Stats](/images/screenshot-shibzeldotcom.png)
 
-It can be reached here : https://www.shibzel.com or here : https://preview.shibzel.com.
+Can be reached here : https://www.shibzel.com.
 
-➟ [Repository](https://github.com/Shibzel/shibzel.com)
+➟ [Repository](https://github.com/Shibzel/Portfolio)
 
 ## Contact
 
