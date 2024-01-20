@@ -1,44 +1,8 @@
-# Welcome to My GitHub Profile!
+## Hi there! 👋
 
-## About Me
+Hi there! **My name's Jean-François** but you can call me *Jean* and I'm from France. I like to spend my free time coding things that usually end up [here](https://github.com/Shibzel?tab=repositories). If you are trying to contact me or want to know more about me, consider going to my website:
 
-My name's Jean-François (call me Jean) and I love coding in my free time. I'm passionate about exploring and creating with technology. Here's a short list of what I can use :
-
-- Programming Languages: Python, Rust (soon enough)
-- Database~~s~~: SQLite 3
-- Tools: Git, Visual Studio Code, Linux/GNU (Fedora & Ubuntu)
-
-I'm constantly learning and improving (hope so) even if I'm often procrastinating and sleeping.
-
-## Projects
-
-### Project 1: Shibbot
-
-My first project with Python and discord bot built with Pycord capable of moderation, sending memes and pics of shibas, and doing other useless stuff.
-
-➟ [Repository](https://github.com/Shibzel/Shibbot)
-
-### Project 2: My website
-
-A minimilistic website that will soon showcase my projects and more about me.
-
-![GitHub Stats](/images/screenshot-shibzeldotcom.png)
-
-Can be reached here : https://www.shibzel.com.
-
-➟ [Repository](https://github.com/Shibzel/Portfolio)
-
-## Contact
-
-- Email: [contact@shibzel.com](mailto:contact@shibzel.com)
-- Twitter: [@Shibzel_](https://twitter.com/@Shibzel_)
-- Discord : shibzel
-
-Feel free to reach out if you want to discuss collabs, know more about me and my projects or just send me a meme.
-
-## My GitHub Stats
-
-![GitHub Stats](https://myreadme.vercel.app/api/embed/Shibzel?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+➟ https://shibzel.com/
 
 ---
 
