@@ -4,6 +4,4 @@ Hi there! **My name's Jean-François** but you can call me *Jean* and I'm from F
 
 ➟ https://shibzel.com/
 
----
-
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Shibzel&label=Profile+views&color=55a1f7&style=for-the-badge"/></p>
